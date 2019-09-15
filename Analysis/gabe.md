@@ -1,0 +1,10 @@
+# Plot summary
+ In this visualization, the happiness score is represented on the x-axis while all countries in the selected region (there are 10 regions) are shown on the y-axis. The bar plot is flipped sideways so happiness score values extend from left to right and is scaled from 0 to 7. Each bar is color coded according to its generosity score (a scale of 0 to 0.5). More generous countries will be labeled in a warm color or red, while less generous countries will be labeled in a green shade. This chart is looking to find patterns and comparisons to if generosity does in fact affect the happiness of that country. You can also compare different years with the second widget (2015, 2016, 2017).
+
+# Happiness
+ The region with the highest average happiness score for all three years was Australia and New Zealand (7.29) There was a huge cluster between the 4th and 10th most happy region in which their range was only 1.79. This cluster shows that regions other than Australia/ New Zealand, North America, and Western Europe, are similarly happy. Sub-Saharan Africa was the least happy region for all three years (averaging 4.14). Overall, a regions happiness had little change over the the three years.
+
+# Impact of generosity
+ By comparing happiness and generosity, we can determine if generosity has an impact, if any, on the happiness of that region or country.  Australia/ New Zealand was the leading region in generosity, and North America and Western Europe remained in the top 5. But Southeastern Asia, Southern Asia, and Sub-Saharan Africa made sizable gains in generosity compared to their happiness scores. In each region selected, the rows are organized by happiness to better detect the correlation between the two categories. Overall, countries who were more generous, did not have a correlation to being happy. Regions like Eastern Asia had a high happiness average but a poor generosity average, while regions like Southern Asia had a high generosity score but low happiness average.
+
+ Overall, generosity did not have a large impact on the happiness of a country. 
